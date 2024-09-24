@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atudety.github.io/sitemap.html.gz
+Sitemap: https://atudety.github.io/app/sitemap.html.gz
+Sitemap: https://atudety.github.io/assets/sitemap.html.gz
+Sitemap: https://atudety.github.io/css/sitemap.html.gz
+Sitemap: https://atudety.github.io/data/sitemap.html.gz
+Sitemap: https://atudety.github.io/includes/sitemap.html.gz
+Sitemap: https://atudety.github.io/item/sitemap.html.gz
+Sitemap: https://atudety.github.io/src/sitemap.html.gz
